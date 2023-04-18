@@ -1,0 +1,18 @@
+{
+    "name": "gioco-plus/rsg-contract",
+    "description": "rsg Interface",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ellie guo",
+            "email": "Ellie.guo@goldenf.co"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "GiocoPlus\\RSG\\": "src/"
+        }
+    },
+    "require": {}
+}
